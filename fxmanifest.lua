@@ -1,5 +1,7 @@
-fx_version "adamant"
-game "gta5"
+fx_version 'cerulean'
+game 'gta5'
+lua54 'yes'
+use_experimental_fxv2_oal 'yes'
 
 author 'torpak. & berxt.ogg'
 description 'Hit Marker by Nexus'
